@@ -1,6 +1,6 @@
 <h2>Veja este projeto <a target='_blank' href='https://crud-clientes-plum.vercel.app/'>aqui</a></h2>
 
-<h2>Para testar este projeto execute:</h2>
+<h2>Para testar este projeto, abra a pasta e execute:</h2>
 
 <code> npm install next</code>
 
