@@ -8,6 +8,6 @@
 
 <code> npm run dev</code>
 
-<h2>Após isso abra seu navegador em </h2>
+<h2>Após isso, abra seu navegador em </h2>
 
 <a target='_blank' href='http://localhost:3000/'>http://localhost:3000/</a>
